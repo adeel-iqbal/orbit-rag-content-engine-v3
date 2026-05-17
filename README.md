@@ -1,7 +1,7 @@
 # ORBIT: RAG Content Engine v3
 ### *Intelligence in Motion*
 
-> Multi-agent AI system that ingests research documents and generates platform-ready social media content, with branded image rendering, live web intelligence, media monitoring, and per-section regeneration with custom prompts.
+> Multi-agent RAG system that ingests research documents and generates social media content for LinkedIn, Instagram, YouTube, X, and Facebook. Live web intelligence via Perplexity, keyword-based media monitoring, Playwright image rendering, and per-section regeneration with custom prompts.
 
 [![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Latest-009688.svg)](https://fastapi.tiangolo.com/)
